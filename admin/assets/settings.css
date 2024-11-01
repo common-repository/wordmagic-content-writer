@@ -1,0 +1,56 @@
+#wmai-settings {
+  background: #1d2327;
+  border-radius: 5px;
+}
+
+.wmai-logo {
+  background: #050606;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+}
+
+.wmai-logo img {
+  max-height: 120px;
+}
+
+.wmai-settings-wrap {
+  padding: 30px;
+  color: #fff;
+  font-size: 15px;
+}
+
+.wmai-settings-wrap label {
+  min-width: 300px;
+  display: inline-block;
+}
+
+.wmai-option {
+  margin-bottom: 20px;
+}
+
+.wmai-option small {
+  display: block;
+}
+
+.wmai-option a {
+  color: #1adff3;
+}
+
+.wmai-option input,.wmai-option select {
+  color: #000;
+  min-width: 400px;
+  padding: 5px 10px;
+}
+
+.wmai-save button {
+  background: #18d0e3;
+  font-size: 16px;
+  padding: 12px 20px;
+  margin-top: 40px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.wmai-save button:hover {
+  background: #1adff3;
+}

@@ -1,0 +1,33 @@
+.ant-steps{
+  margin-bottom: 20px;
+}
+div#wordmagic-ai-container .components-card__body {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 40px;
+}
+.wordmagic-headlines ul li {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  display: inline-flex !important;
+}
+
+.wordmagic-headlines ul li svg {
+  min-width: 25px;
+  min-height: 25px;
+  margin-right: 5px;
+  cursor: move;
+}
+
+label.ant-checkbox-wrapper {
+  margin: 10px 0 15px;
+}
+
+div#wordmagic-ai-container h3 {
+  text-align: center;
+}
+
+div#wordmagic-ai-container .ant-progress {
+  width: 100%;
+  text-align: center;
+}
